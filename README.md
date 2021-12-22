@@ -3,6 +3,10 @@ To install just download the .zip from the latest "Release" and insert it into y
 I recommend using Faithful x32 1.12.2 underneath it as base, as it is not included in this resourcepack.\
 Faithful x32 1.12.2: <https://faithful.team/faithful-1-12/>
 
+Recommended RAM:\
+* Min: 4GB
+* Recommended: 6GB+
+
 The release version will not include the `SPRITES` directory.
 
 # Sprites Directory
